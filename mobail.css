@@ -1,0 +1,26 @@
+@media screen and (max-width:988px){
+    .sarce-s{
+        margin-left: 140px;
+    }
+.md{
+    margin-top: 20px;
+}
+.icon{
+margin-left: -30px;
+
+}
+.main-im{
+   border-radius: 220px;
+margin-left: -60px;
+}
+.feather{
+   margin-top: 10px;
+    border: 2px solid black;
+}
+.card-it{padding: 10px;
+    height: 250px;max-width: 760px;
+}
+
+
+}
+

@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Lato:wght@700&family=Licorice&family=Pacifico&family=Quintessential&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.imga{
+    height: 50px;
+    border-radius: 20px;
+}
+.mm{
+    margin-bottom: 130px;
+}
+
+.main-img{
+    text-align: center;
+}
+.main-im{
+    border-radius: 220px;
+
+    height: 500px;
+}
+.ha{
+    color: brown;
+    font-weight: bolder;
+}
+.md{
+    font-family: 'Lato', sans-serif;
+font-family: 'Licorice', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+    text-align: center;
+    margin-top: 120px;
+}
+.we{
+    font-family: 'Lato', sans-serif;
+font-family: 'Licorice', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+    text-align: center;
+}
+.mai-lo{
+    color: blueviolet;
+}
+.aa{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: -110px;
+    transform: rotate(90deg);
+width: 200px;
+
+}
+
+.icon{
+    text-align: center;
+    margin-top: 30px;
+}
+.icon a .bx{
+    font-size: 30px;
+    padding-left: 20px;
+    transition: .4s;
+
+}
+.icon a .bx:hover{
+    color: brown;
+    transform: scale(1.5);
+
+}
+.fas{
+    color: crimson;
+ font-size: 55px;
+    font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+.card-it{padding: 10px;
+    height: 250px;max-width: 260px;
+}
+.feather{
+   
+    border: 2px solid black;
+}
+
