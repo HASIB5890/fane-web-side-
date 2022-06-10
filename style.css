@@ -84,4 +84,25 @@ font-family: 'Quintessential', cursive;
    
     border: 2px solid black;
 }
-
+.si-im{
+    height: 820px;
+    max-width: 1200px;
+}
+.si-imz{
+    height: 820px;
+ width: 1200px;
+}
+.dh{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+   font-size: 40px;
+    font-weight: bolder;
+}
+.te{
+    font-weight: bolder;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Quintessential', cursive;
+    text-align: center;
+    color: blue;
+    margin-top: 30px;
+}
